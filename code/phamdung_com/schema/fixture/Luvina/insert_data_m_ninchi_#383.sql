@@ -1,0 +1,3 @@
+INSERT INTO m_ninchi (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('有 ', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_ninchi (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('無 ', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_ninchi (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('わからない ', NOW(), '0', null, null, null, null, '0');

@@ -1,0 +1,7 @@
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('まだ介護をしていないが、先々の介護に関心がある', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護認定準備中', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護中(別居)', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護中(同居)', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('現在介護中(別居/同居)で介護施設を検討中', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('長期入居できる施設入居中(特養・有料老人ホームなど)', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_situation (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('過去に介護していた', NOW(), '0', null, null, null, null, '0');

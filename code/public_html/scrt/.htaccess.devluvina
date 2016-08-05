@@ -1,0 +1,7 @@
+AuthUserFile /var/www/chihou2/public_html/scrt/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please Enter Password"
+AuthType Basic
+<Limit GET POST>
+require valid-user
+</Limit>

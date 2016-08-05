@@ -1,0 +1,6 @@
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('～30代', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('40代', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('50代', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('60代', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('70代', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_age (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('80代～', NOW(), '0', null, null, null, null, '0');

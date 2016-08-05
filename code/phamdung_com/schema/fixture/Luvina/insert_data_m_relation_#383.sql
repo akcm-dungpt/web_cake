@@ -1,0 +1,7 @@
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('実母', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('実父', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('義理父', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('義理母', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('配偶者', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('本人', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_relation (relation_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('その他（複数人介護、親戚など)', NOW(), '0', null, null, null, null, '0');

@@ -1,0 +1,11 @@
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('家族 介護者有', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('家族 介護者無', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('医師', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('看護師', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('ケアマネージャー', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('ヘルパー', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('行政関係者', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('業界関係者', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('その他', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('ご家族の介護に関わっている方', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_attribute (attribute_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('専門家その他', NOW(), '0', null, null, null, null, '0');

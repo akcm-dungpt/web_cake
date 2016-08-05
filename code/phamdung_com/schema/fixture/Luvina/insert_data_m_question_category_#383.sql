@@ -1,0 +1,14 @@
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('認知症の介護', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護疲れ、介護負担', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護認定', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護サービス(施設)', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護サービス(在宅)', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護のお金', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護保険制度のしくみ', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護用品', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('清潔・入浴介護', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護の食事', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('被介護者の健康管理', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('保険外サービス', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('外出介護・介護旅行', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_question_category (category_name, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('その他なんでも相談', NOW(), '0', null, null, null, null, '0');

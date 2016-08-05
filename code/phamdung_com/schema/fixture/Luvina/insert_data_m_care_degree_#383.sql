@@ -1,0 +1,9 @@
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('自立', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要支援1', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要支援2', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護1', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護2', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護3', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護4', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('要介護5', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_care_degree (`name`, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('わからない', NOW(), '0', null, null, null, null, '0');

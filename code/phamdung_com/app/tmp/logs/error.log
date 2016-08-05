@@ -1,0 +1,11 @@
+2016-07-12 16:37:58 Error: [MissingActionException] Action AdminController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminController',
+  'action' => 'index',
+)
+Request URL: /admin
+Stack Trace:
+#0 E:\DUNGPT\Project\CakePHP\phamdung_com\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\DUNGPT\Project\CakePHP\phamdung_com\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\DUNGPT\Project\CakePHP\public_html\index.php(119): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

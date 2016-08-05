@@ -1,0 +1,280 @@
+@charset "UTF-8";
+/* 全ページ共通 */
+
+body {
+	background-image: url(../img/haikei.gif);
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3", Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	margin: 0px;
+	line-height: 130%;
+}
+
+a {
+	color: #0066FF;
+}
+a:visited {
+	color: #9933CC;
+}
+a:hover {
+	color: #FF3300;
+}
+
+
+.text_count {
+	font-size: 10px;
+	color: #FF3300;
+	line-height: 120%;
+}
+
+.text_navi {
+	font-size: 12px;
+	line-height: 30px;
+	color: #FF3300;
+	padding: 10px;
+}
+
+
+.text_navi02 {
+	font-size: 12px;
+	text-align: right;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+
+
+.text_stitle {
+	font-size: 18px;
+	line-height: 30px;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 25px;
+}
+
+.text_style01 {
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.text_style02 {
+	font-size: 16px;
+	color: #222222;
+	font-weight: bold;
+	padding-right: 30px;
+	line-height: 140%;
+}
+
+
+/* トップページ */
+
+.text_news {
+	font-size: 12px;
+	line-height: 150%;
+	list-style-position: outside;
+	list-style-type: circle;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.text_menu {
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	padding-left: 25px;
+	font-size: 16px;
+	line-height: 100%;
+}
+
+
+.text_menu02 {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	font-size: 15px;
+	line-height: 120%;
+}
+
+.text_menu03 {
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	padding-left: 25px;
+	font-size: 16px;
+	line-height: 100%;
+}
+
+.text_menu04 {
+	padding-top: 18px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 12px;
+	color: #000000;
+	line-height: 130%;
+}
+
+
+/* 認知症相談室（掲示板） */
+
+
+.text_soudan_style01 {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #003300;
+}
+
+.text_soudan_style02 {
+	font-weight: bold;
+	color: #003300;
+	font-size: 16px;
+}
+
+
+.text_soudan_style03 {
+	font-size: 18px;
+	line-height: 45px;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 45px;
+}
+
+.text_soudan_style03_02 {
+	font-size: 18px;
+	line-height: 110%;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 45px;
+	padding-top: 5px;
+}
+
+.text_soudan_style04 {
+	padding-left: 15px;
+	padding-right: 15px;
+	line-height: 140%;
+	color: #000000;
+}
+
+
+.text_soudan_style05 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.text_soudan_style06 {
+	padding: 15px;
+}
+
+.text_soudan_ssmenu {
+	font-size: 12px;
+	color: #000066;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+/* 認知症の基礎知識 */
+
+
+.text_chishiki_style01 {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #990000;
+}
+
+.text_chishiki_style02 {
+	font-weight: bold;
+	color: #990000;
+	font-size: 14px;
+}
+
+/* 認知症のケア */
+
+
+.text_care_style01 {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #003366;
+}
+
+.text_care_style02 {
+	font-weight: bold;
+	color: #003366;
+	font-size: 16px;
+}
+
+/* コラム */
+
+
+.text_column_style01 {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #996600;
+}
+
+.text_column_style02 {
+	font-weight: bold;
+	color: #996600;
+	font-size: 14px;
+}
+
+
+.text_column_style03 {
+	font-size: 12px;
+	color: #996600;
+}
+
+/* その他 */
+
+
+.text_other_style01 {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #993300;
+}
+
+.text_other_style02 {
+	font-weight: bold;
+	color: #993300;
+	font-size: 14px;
+}
+.text_news_style01 {
+	font-size: 12px;
+	line-height: 150%;
+	color: #003399;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}

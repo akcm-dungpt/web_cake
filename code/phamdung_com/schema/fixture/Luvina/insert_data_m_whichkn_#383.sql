@@ -1,0 +1,11 @@
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('検索サイト', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('チラシ', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('ケアマネドットコムを見て', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('けあともを見て', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('シカトルを見て', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('オトナクラスを見て', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('友人・知人の紹介', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('メールマガジン', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('介護関係者からの紹介', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('ブログを見て', NOW(), '0', null, null, null, null, '0');
+INSERT INTO m_whichkn (which_kn, entry_date, entry_user, update_date, update_user, delete_datetime, delete_user, delete_flg) VALUES ('その他', NOW(), '0', null, null, null, null, '0');
